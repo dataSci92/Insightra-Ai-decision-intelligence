@@ -1,5 +1,7 @@
 # INSIGHTRA — AI Business Intelligence & Decision Engine
 
+**Live app:** https://insightra-ai-decision-intelligence--workerst6.replit.app
+
 INSIGHTRA turns business data into insights, predictions, explanations, recommendations, and what-if decisions.
 
 ## Features
