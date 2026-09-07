@@ -1,0 +1,9 @@
+entrypoint = "app.py"
+run = "streamlit run app.py --server.port 3000 --server.address 0.0.0.0 --server.headless true --server.enableCORS false"
+
+[nix]
+channel = "stable-24_05"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
